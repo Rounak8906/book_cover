@@ -143,7 +143,7 @@ frontcover.html file
     width: 100%;
     text-align: center;
     font-size: 20px;
-    color: slategreys;
+    color: slategrey;
     }
     
     body{
@@ -176,6 +176,6 @@ frontcover.html file
 
 ```
 # OUTPUT:
-![alt text](front/ssbookcoverr.png)
+![alt text](front/bookcoverss.png)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
