@@ -166,7 +166,7 @@ frontcover.html file
     <img src="{% static 'bookcover.png' %}" alt="Book Cover" class="book-cover">
 
     <!-- Author photo -->
-    <img src="{% static 'CHARLESDARWIN.png' %}" 
+    <img src="{% static 'unnamed.jpg' %}" 
     alt="Author" class="author-image">
 </div>
 </body>
@@ -176,6 +176,6 @@ frontcover.html file
 
 ```
 # OUTPUT:
-![alt text](front/bookcoverr.png)
+![alt text](bookcoverr.png)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
