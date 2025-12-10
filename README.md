@@ -176,6 +176,6 @@ frontcover.html file
 
 ```
 # OUTPUT:
-![alt text](bookcoverr.png)
+![alt text](booc.png)
 # RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
