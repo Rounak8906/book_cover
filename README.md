@@ -167,6 +167,7 @@ frontcover.html file
   </style>
 </head>
 <body>
+<<<<<<< HEAD
 
   <div class="book-container">
 
@@ -186,6 +187,20 @@ frontcover.html file
    </div>
   </div>
 
+=======
+  
+    <div class="book-container">
+    <div class="title">THE VOYAGE OF THE BEAGLE</div>
+    <div class="subtitle">A Naturalist’s Journal of Researches Around the World</div>
+    <span class="edition"><strong>ORIGINAL EDITION</strong></span>
+    <hr class="top">
+    <hr class="bottom">
+    <span class="author">CHARLES DARWIN</span>
+    <img src="{% static 'bookcover.png' %}" alt="Book Cover" class="book-cover">
+    <img src="{% static 'unnamed.jpg' %}" 
+    alt="Author" class="author-image">
+</div>
+>>>>>>> 23349c5bc2c35f4ee35e56cc466979215762bdf9
 </body>
 </html>
 
