@@ -164,8 +164,6 @@ frontcover.html file
     <hr class="bottom">
     <span class="author">CHARLES DARWIN</span>
     <img src="{% static 'bookcover.png' %}" alt="Book Cover" class="book-cover">
-
-    <!-- Author photo -->
     <img src="{% static 'unnamed.jpg' %}" 
     alt="Author" class="author-image">
 </div>
