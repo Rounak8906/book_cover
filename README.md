@@ -167,7 +167,7 @@ frontcover.html file
   </style>
 </head>
 <body>
-<<<<<<< HEAD
+
 
   <div class="book-container">
 
@@ -187,7 +187,7 @@ frontcover.html file
    </div>
   </div>
 
-=======
+
   
     <div class="book-container">
     <div class="title">THE VOYAGE OF THE BEAGLE</div>
@@ -200,7 +200,7 @@ frontcover.html file
     <img src="{% static 'unnamed.jpg' %}" 
     alt="Author" class="author-image">
 </div>
->>>>>>> 23349c5bc2c35f4ee35e56cc466979215762bdf9
+
 </body>
 </html>
 
